@@ -1,14 +1,16 @@
-{
-  "id": 1,
-  "nome": "Ana Souza",
-  "idade": 28,
-  "email": "ana.souza@example.com",
-  "telefone": "+55 11 91234-5678",
-  "cidade": "São Paulo",
-  "estado": "SP",
-  "pais": "Brasil",
-  "profissão": "Desenvolvedora",
-  "interesses": [
-    "Tecnologia"
-  ]
-}
+[
+  {
+    "id": 1,
+    "nome": "Ana Souza",
+    "idade": 28,
+    "email": "ana.souza@example.com",
+    "telefone": "+55 11 91234-5678",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "pais": "Brasil",
+    "profissão": "Desenvolvedora",
+    "interesses": [
+      "Tecnologia"
+    ]
+  }
+]
