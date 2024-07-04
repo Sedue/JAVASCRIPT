@@ -1,6 +1,6 @@
 const usuarios = require('./usuarios.json')
 
-function usuariosSelectOpions() {
+function usuariosSelectOptions() {
   return usuarios.map((usuario) => {
     return {
       label: `${usuario.id} ${usuario.nome}`,
